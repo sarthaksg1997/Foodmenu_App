@@ -1,5 +1,5 @@
 import Restaurant from "./Components/Restaurant";
-import  "style.css";
+import  "./Components/style.css";
 
 
 function App() {
